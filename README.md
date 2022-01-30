@@ -14,9 +14,9 @@
 <li> 🌱 <b>I’m currently practicing</b> : <code>Full Stack</code>, <code>Frappe & Angular</code></li>
 <li> 💬 <b>Ask me about</b> : <code>Cloud Architecture</code>, <code>Algorithms</code>, <code>Open Source</code>, <code>C++</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/lajat-manekar-50137317a/">LinkedIn</a></code></li>
-<li> 👩‍💻
 <li>📄 <b>Know about my experiences</b>: <code><a href="https://drive.google.com/file/d/1EdwGbz9TRcKrbqytmB9OsKMGyLZxoCn2/view?usp=sharing"> Lajat's Resume</li>
 </ul>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
