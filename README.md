@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Lazeeez&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### 🐍
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 ![Lazeeez Contribution graph](https://github.com/Lazeeez/Lazeeez/blob/output/github-contribution-grid-snake.svg)     
-
-<!--
-**mayankchaudhary26/mayankchaudhary26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 👯 Looking for intern opportunities
-
