@@ -1,7 +1,7 @@
 <!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 
 
-<h2><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h2>
+Hey there..
 <br>
 
 ![Lajat's github activity graph](https://activity-graph.herokuapp.com/graph?username=Lazeeez&theme=react-dark)
