@@ -90,7 +90,7 @@ Hey there..
 
 <img src="https://user-images.githubusercontent.com/77020164/153806717-dff02c3c-e022-4af5-8140-abc022be9c02.png" width="35%" height="35%"  align="right"  />
 
-## Hey 👋, I'm [Lajat Manekar!](https://github.com/Lazeeez/)
+## Hey there, I'm Lajat..
 
 ### Glad to see you here! &nbsp;
 
