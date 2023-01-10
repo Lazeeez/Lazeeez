@@ -1,6 +1,6 @@
 <!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 
-
+<!--
 Hey there..
 <br>
 
@@ -42,6 +42,7 @@ Hey there..
 <!-- 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
 
+<!--
 <h3 align="left">Coding Profiles</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/Lazeez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Lazeez" height="30" width="40" /></a>
@@ -61,7 +62,7 @@ Hey there..
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yashikajotwani12&show_icons=true&locale=en&theme=dark" alt="yashikajotwani12" ></p>  -->
   
 
-
+<!--
   <center>
 <h2 align="center">Git Hub Stats</h2>
 
@@ -83,3 +84,65 @@ Hey there..
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Lazeeez/langs?time_range=one_year&include_private=True&compact=True&theme=dark)](https://githubtrends.io)
 </div>
 
+-->
+
+
+
+<img src="https://user-images.githubusercontent.com/77020164/153806717-dff02c3c-e022-4af5-8140-abc022be9c02.png" width="35%" height="35%"  align="right"  />
+
+## Hey 👋, I'm [Lajat Manekar!](https://github.com/Lazeeez/)
+
+### Glad to see you here! &nbsp;
+
+* I'm a final year undergrad in Computer Science.
+* I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. 
+* I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
+* I'm currently into Full Stack 🕸️ and working on my Data Structures and Algorithms 🤓.
+
+### Talking about Personal Stuffs:
+
+- 🛠 &nbsp; I’m currently working with Angularjs, Django, <br /> Python, Mongodb, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Lazeeez?tab=repositories).
+- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/lajat-manekar-50137317a/)! I am happy to help.
+- 👾 &nbsp; After work, you can find me in gym.
+- 📫 &nbsp; How to reach me: lajatm9@gmail.com.
+
+### Languages and Tools:
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="dart"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" alt="django"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="flutter"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+### Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lazeeez&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazeeez&show_icons=true&theme=radical&layout=compact"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lazeeez&theme=radical" />
+</details>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
