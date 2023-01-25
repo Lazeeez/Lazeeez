@@ -86,27 +86,14 @@ Hey there..
 
 -->
 
-
-
-<img src="https://user-images.githubusercontent.com/77020164/153806717-dff02c3c-e022-4af5-8140-abc022be9c02.png" width="35%" height="35%"  align="right"  />
-
 ## Hey there, I'm Lajat..
 
 ### Glad to see you here! &nbsp;
 
-* I'm a final year undergrad in Computer Science.
-* I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. 
-* I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
-* I'm currently into Full Stack 🕸️ and working on my Data Structures and Algorithms 🤓.
-
-### Talking about Personal Stuffs:
-
-- 🛠 &nbsp; I’m currently working with Angularjs, Django, <br /> Python, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Lazeeez?tab=repositories).
-- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/lajat-manekar-50137317a/)! I am happy to help.
-- 👾 &nbsp; After work, you can find me in gym.
-- 📫 &nbsp; How to reach me: lajatm9@gmail.com.
+- 📍 I'm a full stack developer who loves to build user-centric products that solve real world problems.
+- 🔧 I am proficient in JavaScript, TypeScript and the Flutter ecosystem. I have experience in developing REST APIs using backend frameworks like Django (Python), .NET (C#), as well as deploying them at scale using AWS as well as Azure cloud services.
+- ⚒  In my free time, I like to compete on [Leetcode](https://leetcode.com/lazeeez/) and polish my DSA skills.
+- 📫 How to reach me: [mail me](mailto:lajatm9@gmail.com).
 
 ### Languages and Tools:
 
@@ -123,7 +110,7 @@ Hey there..
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-### Projects and Dev Stuffs:
+### Projects and Dev Stuff:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
