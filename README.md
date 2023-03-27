@@ -90,10 +90,10 @@ Hey there..
 
 ### Glad to see you here! &nbsp;
 
-- 📍 I'm a full stack developer who loves to build user-centric products that solve real world problems.
-- 🔧 I am proficient in JavaScript, TypeScript and the Flutter ecosystem. I have experience in developing REST APIs using backend frameworks like Django (Python), .NET (C#), as well as deploying them at scale using AWS as well as Azure cloud services.
-- ⚒  In my free time, I like to compete on [Leetcode](https://leetcode.com/lazeeez/) and polish my DSA skills.
-- 📫 How to reach me: [mail me](mailto:lajatm9@gmail.com).
+- As a full-stack developer, I am passionate about creating user-centric products that solve real-world problems.
+- My expertise includes JavaScript, TypeScript, and the Flutter ecosystem, and I have extensive experience developing REST APIs using backend frameworks such as Django (Python) and .NET (C#), as well as deploying them at scale using AWS and Azure cloud services.
+- Additionally, I enjoy challenging myself by participating in [Leetcode](https://leetcode.com/lazeeez/) competitions and polishing my DSA skills.
+- If you have any questions or would like to discuss a project, feel free to reach out to me via email: [mail me](mailto:lajatm9@gmail.com).
 
 ### Languages and Tools:
 
