@@ -92,7 +92,7 @@ Hey there..
 
 - As a full-stack developer, I am passionate about creating user-centric products that solve real-world problems.
 - My expertise includes JavaScript, TypeScript, and the Flutter ecosystem, and I have extensive experience developing REST APIs using backend frameworks such as Django (Python) and .NET (C#), as well as deploying them at scale using AWS and Azure cloud services.
-- Additionally, I enjoy challenging myself by participating in [Leetcode](https://leetcode.com/lazeeez/) competitions and polishing my DSA skills.
+- Additionally, I enjoy challenging myself by participating in [Leetcode](https://leetcode.com/LajatManekar/) competitions and polishing my DSA skills.
 - If you have any questions or would like to discuss a project, feel free to reach out to me via email: [mail me](mailto:lajatm9@gmail.com).
 
 ### Languages and Tools:
