@@ -2,15 +2,15 @@
 
 <!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 
-# 👋 Hey there, I'm **Lajat Manekar**
+# 👋 Hey there, I'm **Lajat**
 
-### 💡 *Building code that changes how people see things (for the most part).*
+### 💡 *working on code that changes people's perspective - for the most part.*
 
 ---
 
 ### 👨‍💻 About Me
 
-I’m a **Full Stack Developer** passionate about building impactful, user-focused applications that make a difference.
+I’m a **Backend Developer** passionate about building impactful, user-focused applications that make a difference.
 Currently pursuing my **Master’s at Georgia Tech, Atlanta**, I love working at the intersection of **software engineering, cloud architecture**, and **open-source development**.
 
 * 🌱 **Currently exploring:** Full-stack development with **Angular**, **Django**, and **Flutter**
