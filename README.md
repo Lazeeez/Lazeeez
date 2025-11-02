@@ -1,135 +1,76 @@
+<!-- Optional Banner -->
+
 <!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 
-<!--
-Hey there..
-<br>
+# 👋 Hey there, I'm **Lajat Manekar**
 
-![Lajat's github activity graph](https://activity-graph.herokuapp.com/graph?username=Lazeeez&theme=react-dark)
-<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right" >
-<h3 align="center">An enthusiast ❤</h3>
-<p><i> Hey, I'm Lajat a master's student at Georgia Tech, Atlanta. I'm a Tech Enthusiast, a Developer in practice and an Open Source Contributer. Always hungry to learn about new domains and tech.</i></p>
+### 💡 *Building code that changes how people see things (for the most part).*
 
+---
 
-<ul>
-<li> 🌱 <b>I’m currently practicing</b> : <code>Full Stack</code>, <code>Frappe & Angular</code></li>
-<li> 💬 <b>Ask me about</b> : <code>Cloud Architecture</code>, <code>Algorithms</code>, <code>Open Source</code>, <code>C++</code></li>
-<li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/lajat-manekar-50137317a/">LinkedIn</a></code></li>
-<li>📄 <b>Know about my experiences</b>: <code><a href="https://drive.google.com/file/d/1EdwGbz9TRcKrbqytmB9OsKMGyLZxoCn2/view?usp=sharing"> Lajat's Resume</li>
-</ul>
+### 👨‍💻 About Me
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+I’m a **Full Stack Developer** passionate about building impactful, user-focused applications that make a difference.
+Currently pursuing my **Master’s at Georgia Tech, Atlanta**, I love working at the intersection of **software engineering, cloud architecture**, and **open-source development**.
 
-- 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🌐 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript&logoColor=1572B6)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
-  ![Frappe](https://img.shields.io/badge/-Frappe-333333?style=flat&logo=Frappe&logoColor=563D7C)
-  
-- 🛢 &nbsp;
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+* 🌱 **Currently exploring:** Full-stack development with **Angular**, **Django**, and **Flutter**
+* 💬 **Ask me about:** Cloud architecture, algorithms, open source, or scalable backend systems
+* 🧠 **Leetcode Enthusiast:** I regularly practice problem-solving — [Check out my LeetCode profile](https://leetcode.com/LajatManekar/)
+* 📫 **Reach me at:** [lajatm9@gmail.com](mailto:lajatm9@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/lajat-manekar](https://www.linkedin.com/in/lajat-manekar-50137317a/)
+* 📄 **Résumé:** [View here](https://drive.google.com/file/d/1EdwGbz9TRcKrbqytmB9OsKMGyLZxoCn2/view?usp=sharing)
 
-![age](https://img.shields.io/badge/age-20-blue)
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-INDIA-3c9)
+---
 
-<!-- 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
+### ⚙️ Languages & Tools
 
-<!--
-<h3 align="left">Coding Profiles</h3>
 <p align="left">
-<a href="https://codeforces.com/profile/Lazeez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Lazeez" height="30" width="40" /></a>
-<a href="https://leetcode.com/lazeeez/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="lazeeez" height="30" width="40" /></a>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"/></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
+  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart"/></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript"/></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" alt="Angular"/></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="Django"/></code>
+  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter"/></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL"/></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"/></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="Terminal"/></code>
 </p>
 
-<br>
 
-<div align="center">
- 
-<!--  <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=yashikajotwani12&theme=dark" alt="yashikajotwani12"> </p>
+### 📊 GitHub Insights
 
-<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashikajotwani12&theme=dark" alt="yashikajotwani12" > </p>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashikajotwani12&show_icons=true&locale=en&layout=compact&theme=dark" alt="yashikajotwani12" > </p>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yashikajotwani12&show_icons=true&locale=en&theme=dark" alt="yashikajotwani12" ></p>  -->
-  
-
-<!--
-  <center>
-<h2 align="center">Git Hub Stats</h2>
-
-<p align="center"><img src="https://metrics.lecoq.io/Lazeeez" alt="Github Metrics"></p>
-
-<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
-</center>
-  
----
-<div align="center">
- <h2>Connect Me In</h2>
-  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lajat-manekar-50137317a/)
-
-</div>
-<div>
-<h2>Github Wrapped 2021</h2>
-  
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Lazeeez/langs?time_range=one_year&include_private=True&compact=True&theme=dark)](https://githubtrends.io)
-</div>
-
--->
-
-## Hey there, I'm Lajat..
-
-### Glad to see you here! &nbsp;
-
-- As a full-stack developer, I am passionate about creating user-centric products that solve real-world problems.
-- My expertise includes JavaScript, TypeScript, and the Flutter ecosystem, and I have extensive experience developing REST APIs using backend frameworks such as Django (Python) and .NET (C#), as well as deploying them at scale using AWS and Azure cloud services.
-- Additionally, I enjoy challenging myself by participating in [Leetcode](https://leetcode.com/LajatManekar/) competitions and polishing my DSA skills.
-- If you have any questions or would like to discuss a project, feel free to reach out to me via email: [mail me](mailto:lajatm9@gmail.com).
-
-### Languages and Tools:
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="dart"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" alt="django"></code>
-<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="flutter"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-### Projects and Dev Stuff:
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
+<details>
+  <summary><b>⚡ GitHub Stats</b></summary>
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lazeeez&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
   &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazeeez&show_icons=true&theme=radical&layout=compact"/>
 </details>
 
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
+<details>
+  <summary><b>🔥 GitHub Streaks</b></summary>
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lazeeez&theme=radical" />
 </details>
 
+---
+
+### 🏆 Achievements & Highlights
+
+* 🧑‍💻 Contributed to open-source ERPNext projects.
+* ☁️ Built and deployed full-stack apps on **AWS**, **Azure**, and **Firebase**.
+* 📈 Passionate about **scalable systems** and **clean architecture**.
+* ✍️ Occasionally write about software and productivity.
+
+---
+
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lajat%20Manekar-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/lajat-manekar-50137317a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-LajatManekar-orange?style=flat-square\&logo=leetcode)](https://leetcode.com/LajatManekar/)
+[![Gmail](https://img.shields.io/badge/Email-lajatm9@gmail.com-red?style=flat-square\&logo=gmail)](mailto:lajatm9@gmail.com)
 
 </div>
