@@ -7,7 +7,7 @@ Hey there..
 ![Lajat's github activity graph](https://activity-graph.herokuapp.com/graph?username=Lazeeez&theme=react-dark)
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right" >
 <h3 align="center">An enthusiast ❤</h3>
-<p><i> Hi, I'm Lajat a Final year CS Undergrad from Vishwakarma Institute of Technology, Pune. I'm a Tech Enthusiast, Full stack Web Developer in practice and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
+<p><i> Hey, I'm Lajat a master's student at Georgia Tech, Atlanta. I'm a Tech Enthusiast, a Developer in practice and an Open Source Contributer. Always hungry to learn about new domains and tech.</i></p>
 
 
 <ul>
